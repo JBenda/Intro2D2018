@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 41833749}
   - component: {fileID: 41833748}
   m_Layer: 0
-  m_Name: Spike_Trap
+  m_Name: Heal_Trap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 992307130}
   - component: {fileID: 992307129}
   m_Layer: 0
-  m_Name: Heal_Trap
+  m_Name: Spike_Trap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -587,7 +587,7 @@ GameObject:
   - component: {fileID: 1566323176}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
